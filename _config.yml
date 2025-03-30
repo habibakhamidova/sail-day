@@ -1,8 +1,8 @@
 # Site settings
 title: Great New Blog Title
 author:
-name: FirstName LastName
-email: your-email@domain.com
+  name: FirstName LastName
+  email: your-email@domain.com
 description: "Great site about Jekyll on GH-Pages."
 
 # Build settings
